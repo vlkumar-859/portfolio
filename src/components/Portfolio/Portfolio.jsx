@@ -11,7 +11,7 @@ import {
   Briefcase,
 } from "lucide-react";
 import Navigation from "../Navigation/Navigation";
-import { ProfileCard } from "../ProfileCard/profileCard";
+import { ProfileCard } from "../ProfileCard/ProfileCard";
 import About from "../About/About";
 import Experience from "../Experience/Experience";
 import Projects from "../Projects/Projects";
